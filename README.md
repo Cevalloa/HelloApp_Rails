@@ -1,4 +1,4 @@
-
+Deploys a rails app to Heroku (did not upload this one to AWS)
 
 == README
 
